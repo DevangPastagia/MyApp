@@ -7,7 +7,7 @@
                         <h1 class="p-name">Collections</h1>
                         <p class="p-desc text-dark">
                             you can explore ans shop many differnt collection
-                            from various barands here.
+                            from various barands here okay.
                         </p>
                         <a href="#" class="btn p-shop btn-primary text-light rounded-0 d-flex justify-content-center align-items-center gap-2">
                             <img src="@/assets/icons/Bag_alt (1).png" alt="No Image">Shop now
